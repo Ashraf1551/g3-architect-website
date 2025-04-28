@@ -250,6 +250,19 @@ main>section {
     }
 }
 
+/* footer section styeles */
+footer{
+    background-color: #FFF4E7;
+    max-width: 1400px;
+    margin: 130px auto;
+    border-radius: 8px;
+}
+.footer-description{
+    font-size: 1.25rem;
+    font-weight: 400px;
+    text-align: center;
+    padding: 38px 410px;
+}
 /* medium size devices */
 @media screen and (min-width: 576px) and (max-width: 992px) {
 
