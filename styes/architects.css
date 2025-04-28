@@ -73,7 +73,7 @@ main>section {
     margin-right: 30px;
 }
 
-.nav-links {
+.nav-link {
     text-decoration: none;
     font-weight: 500;
 }
@@ -120,6 +120,13 @@ main>section {
 #quick-list {
     font-weight: 500;
 }
+
+/* feature section related styles */
+#feature-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+
 
 /* some facts related styles */
 .facts-container{
